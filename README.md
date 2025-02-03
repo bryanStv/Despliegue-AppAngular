@@ -2,7 +2,7 @@
 
 Para probar los ejemplos de este repositorio, teclea los siguientes comandos:
 
-1. Clona este repositorio en local:
+1. Clona este repositorio en local: 
 
 ```console
 git clone https://github.com/LuisJoseSanchez/iniciacion-a-angular.git
